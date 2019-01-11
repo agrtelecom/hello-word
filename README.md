@@ -6,4 +6,12 @@ Tudo bem. O roteiro de instruções pede para fazermos modificações no Readme 
 Pulei essa parte, ok?
   
 ## Teste na formatação
-Desse jeito, estou testando a formatação do arquivo Readme.
+
+### Não lembro onde encontrar a ajuda para formatação desse arquivo.
+- será que isso vira uma lista?
+- vou tentar um segundo tópico!
+
+_Itálico_ 
+
+__Negrito__ 
+
